@@ -102,9 +102,9 @@ function App() {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    CONTRACT_ADDRESS: '0xf7Ac67461Da4421DF23C8781fC454aE63d6b7a7B',
+    CONTRACT_ADDRESS: '0xd59765b76913dd781a80f1974487B002406D7b5e',
     SCAN_LINK:
-      'https://mumbai.polygonscan.com/address/0xf7ac67461da4421df23c8781fc454ae63d6b7a7b',
+      'https://polygonscan.com/address/0xd59765b76913dd781a80f1974487b002406d7b5e',
     NETWORK: {
       NAME: 'Polygon',
       SYMBOL: 'Matic',
@@ -113,11 +113,11 @@ function App() {
     NFT_NAME: 'CryptoTigerX Den Squad',
     SYMBOL: 'CTXDS',
     MAX_SUPPLY: 10000,
-    WEI_COST: 75000000000000000,
-    DISPLAY_COST: 3.25,
+    WEI_COST: https://polygonscan.com/address/0xd59765b76913dd781a80f1974487b002406d7b5e,
+    DISPLAY_COST: 1,
     GAS_LIMIT: 285000,
     MARKETPLACE: 'Opensea',
-    MARKETPLACE_LINK: 'https://testnets.opensea.io/collection/cryptotigerx-den-squad-mumbai',
+    MARKETPLACE_LINK: 'https://opensea.io/collection/cryptotigerx-den-squad',
     SHOW_BACKGROUND: true,
   });
 
@@ -379,7 +379,7 @@ function App() {
                   </>
                 )}
               </>
-            )}
+            )}polygonscan
             <s.SpacerMedium />
           </s.Container>
           <s.SpacerLarge />
