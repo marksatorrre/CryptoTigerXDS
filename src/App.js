@@ -379,7 +379,7 @@ function App() {
                   </>
                 )}
               </>
-            )}polygonscan
+            )}
             <s.SpacerMedium />
           </s.Container>
           <s.SpacerLarge />
