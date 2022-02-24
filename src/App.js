@@ -113,7 +113,7 @@ function App() {
     NFT_NAME: 'CryptoTigerX Den Squad',
     SYMBOL: 'CTXDS',
     MAX_SUPPLY: 10000,
-    WEI_COST: https://polygonscan.com/address/0xd59765b76913dd781a80f1974487b002406d7b5e,
+    WEI_COST: 1000000000000000000,
     DISPLAY_COST: 1,
     GAS_LIMIT: 285000,
     MARKETPLACE: 'Opensea',
